@@ -59,6 +59,7 @@ function geraSenha() {
     campoSenha.value = senha;
     classificaSenha();
 
+    
 }
 
 function classificaSenha() {
